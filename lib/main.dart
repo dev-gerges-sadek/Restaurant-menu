@@ -32,3 +32,6 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+/* git remote add origin https://github.com/dev-gerges-sadek/Restaurant-menu.git
+git branch -M main
+git push -u origin main */
