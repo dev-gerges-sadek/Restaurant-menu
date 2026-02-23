@@ -15,5 +15,4 @@ A Flutter application that displays meals categorized by Breakfast, Lunch, and D
 - Cloud Firestore
 - Bloc (State Management)
 
-## 📸 Screenshots
-![Home Screen](assets/screenshots/home.png)
+
